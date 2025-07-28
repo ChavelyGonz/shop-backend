@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Controllers.StorageController.AddProduct(Application.Features.Storage.Commands.CreateProductCommand)">
+            <summary>
+            Creates a new product and associates it with specified stores.
+            </summary>
+            <param name="command">Contains product details and the list of store IDs where the product should be available.</param>
+            <returns>The created product dto, including its generated ID.</returns>
+            <response code="200">Returns the created product.</response>
+        </member>
+        <member name="M:Presentation.Controllers.StorageController.GetAllProducts(System.Int32,System.Int32)">
+            <summary>
+            Retrieves all products with optional pagination.
+            </summary>
+            <param name="pageNumber">Page number (default is 1)</param>
+            <param name="pageSize">Page size (default is 10)</param>
+            <returns>List of products as DTOs.</returns>
+            <response code="200">Returns list of products.</response>
+        </member>
+        <member name="M:Presentation.Controllers.StorageController.GetTotalProductCount">
+            <summary>
+            Get the total number of products in the database.
+            </summary>
+            <remarks>
+            This endpoint retrieves the total count of products without loading them into memory.
+            It's optimized: performs a direct SQL COUNT(*) query in the database.
+            </remarks>
+            <returns>
+            Returns an integer representing the total number of products.
+            </returns>
+            <response code="200">Returns the total number of products</response>
+        </member>
+    </members>
+</doc>

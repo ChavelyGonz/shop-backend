@@ -1,0 +1,6 @@
+{
+  "application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/chavely\/Documents\/chavely\/business\/shop\/backend\/src\/application",
+  "domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/chavely\/Documents\/chavely\/business\/shop\/backend\/src\/domain",
+  "persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/chavely\/Documents\/chavely\/business\/shop\/backend\/src\/infrastructure\/persistence",
+  "presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/chavely\/Documents\/chavely\/business\/shop\/backend\/src\/presentation"
+}

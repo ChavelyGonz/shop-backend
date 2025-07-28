@@ -1,0 +1,272 @@
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/appsettings.Development.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/appsettings.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/presentation
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/presentation.deps.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/presentation.runtimeconfig.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Ardalis.Specification.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Ardalis.Specification.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/AutoMapper.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/EntityFramework.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/FluentValidation.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Humanizer.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/MediatR.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Npgsql.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.CodeDom.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/application.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/application.pdb
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/info services/backend/presentation/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cs
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cache
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.build.presentation.props
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.presentation.props
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.presentation.props
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets.pack.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets.build.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/staticwebassets.development.json
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/scopedcss/bundle/presentation.styles.css
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/refint/presentation.dll
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/presentation.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/info services/backend/presentation/obj/Debug/net7.0/ref/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/appsettings.Development.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/appsettings.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/presentation
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/presentation.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/presentation.runtimeconfig.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Ardalis.Specification.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Ardalis.Specification.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/AutoMapper.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/EntityFramework.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/FluentValidation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Humanizer.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/MediatR.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Npgsql.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.CodeDom.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/application.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/application.pdb
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/presentation/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cache
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.build.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets.pack.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets.build.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/staticwebassets.development.json
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/scopedcss/bundle/presentation.styles.css
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/refint/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/presentation.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/shop/backend/presentation/obj/Debug/net7.0/ref/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/refint/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/appsettings.Development.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/appsettings.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation.runtimeconfig.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Ardalis.Specification.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Ardalis.Specification.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/AutoMapper.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/EntityFramework.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/FluentValidation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Humanizer.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/MediatR.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Npgsql.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.CodeDom.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/application.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/application.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.MvcApplicationPartsAssemblyInfo.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets/msbuild.presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets/msbuild.build.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.presentation.props
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets.pack.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets.build.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/staticwebassets.development.json
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/scopedcss/bundle/presentation.styles.css
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/ref/presentation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Localization.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Localization.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Microsoft.Extensions.ObjectPool.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/bin/Debug/net7.0/presentation.xml
+/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/Debug/net7.0/presentation.xml

@@ -1,0 +1,36 @@
+/home/chavely/Documents/chavely/business/info services/backend/domain/bin/Debug/net7.0/domain.deps.json
+/home/chavely/Documents/chavely/business/info services/backend/domain/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/info services/backend/domain/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/refint/domain.dll
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/info services/backend/domain/obj/Debug/net7.0/ref/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/domain/bin/Debug/net7.0/domain.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/domain/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/domain/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/refint/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/domain/obj/Debug/net7.0/ref/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/bin/Debug/net7.0/domain.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/refint/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/Debug/net7.0/ref/domain.dll

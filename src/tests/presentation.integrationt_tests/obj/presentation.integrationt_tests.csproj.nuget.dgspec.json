@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.integrationt_tests/presentation.integrationt_tests.csproj": {}
+  },
+  "projects": {
+    "/home/chavely/Documents/chavely/business/shop/backend/src/application/application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chavely/Documents/chavely/business/shop/backend/src/application/application.csproj",
+        "projectName": "application",
+        "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/application/application.csproj",
+        "packagesPath": "/home/chavely/.nuget/packages/",
+        "outputPath": "/home/chavely/Documents/chavely/business/shop/backend/src/application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chavely/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj": {
+                "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj",
+        "projectName": "domain",
+        "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj",
+        "packagesPath": "/home/chavely/.nuget/packages/",
+        "outputPath": "/home/chavely/Documents/chavely/business/shop/backend/src/domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chavely/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/persistence.csproj",
+        "projectName": "persistence",
+        "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/persistence.csproj",
+        "packagesPath": "/home/chavely/.nuget/packages/",
+        "outputPath": "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chavely/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj": {
+                "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/domain/domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/presentation.csproj",
+        "projectName": "presentation",
+        "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/presentation.csproj",
+        "packagesPath": "/home/chavely/.nuget/packages/",
+        "outputPath": "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chavely/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/chavely/Documents/chavely/business/shop/backend/src/application/application.csproj": {
+                "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/application/application.csproj"
+              },
+              "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/persistence.csproj": {
+                "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.2, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[8.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.integrationt_tests/presentation.integrationt_tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.integrationt_tests/presentation.integrationt_tests.csproj",
+        "projectName": "presentation.integrationt_tests",
+        "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.integrationt_tests/presentation.integrationt_tests.csproj",
+        "packagesPath": "/home/chavely/.nuget/packages/",
+        "outputPath": "/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.integrationt_tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chavely/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/presentation.csproj": {
+                "projectPath": "/home/chavely/Documents/chavely/business/shop/backend/src/presentation/presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[10.0.0-preview.6.25358.103, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

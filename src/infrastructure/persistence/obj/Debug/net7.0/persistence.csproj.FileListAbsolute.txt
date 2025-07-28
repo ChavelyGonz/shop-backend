@@ -1,0 +1,51 @@
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.deps.json
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.runtimeconfig.json
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/refint/persistence.dll
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/info services/backend/infrastructure/persistence/obj/Debug/net7.0/ref/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.runtimeconfig.json
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/refint/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/persistence.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/shop/backend/infrastructure/persistence/obj/Debug/net7.0/ref/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/persistence.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/persistence.runtimeconfig.json
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/refint/persistence.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/persistence.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/infrastructure/persistence/obj/Debug/net7.0/ref/persistence.dll

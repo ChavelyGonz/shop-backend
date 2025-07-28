@@ -1,0 +1,266 @@
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.tests.deps.json
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.tests.runtimeconfig.json
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.tests.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.tests.pdb
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Ardalis.Specification.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/AutoMapper.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Castle.Core.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/FluentAssertions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/FluentValidation.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/MediatR.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/testhost.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Moq.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.abstractions.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.assert.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.core.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/xunit.execution.dotnet.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/application.pdb
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/refint/application.tests.dll
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.pdb
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/application.tests.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/info services/tests/application.tests/obj/Debug/net7.0/ref/application.tests.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.AssemblyReference.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.AssemblyInfoInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.AssemblyInfo.cs
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.CoreCompileInputs.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/refint/application.tests.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.tests.deps.json
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.tests.runtimeconfig.json
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.tests.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.tests.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Ardalis.Specification.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/AutoMapper.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Castle.Core.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/FluentAssertions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/FluentValidation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/MediatR.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/MediatR.Contracts.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/testhost.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Moq.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.abstractions.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.assert.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.core.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/xunit.execution.dotnet.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/domain.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/application.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/bin/Debug/net7.0/domain.pdb
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.csproj.CopyComplete
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/application.tests.genruntimeconfig.cache
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/application.tests/obj/Debug/net7.0/ref/application.tests.dll
