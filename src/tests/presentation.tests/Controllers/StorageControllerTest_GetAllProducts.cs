@@ -3,6 +3,8 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.Controllers;
 using Domain.Enums;
+using Application.Features.GeneralPropose.Helpers;
+using Domain.Models;
 using Application.Features.Storage.DTOs;
 using Application.Features.Storage.Commands;
 using Application.Features.Storage.Queries;
@@ -21,7 +23,8 @@ public partial class StorageControllerTests
         mockSender.Setup(s => s.Send(It.IsAny<GetAllProductsQuery>(), It.IsAny<CancellationToken>()))
                   .ReturnsAsync(expected);
 
-        var controller = new StorageController(mockSender.Object);
+        var helperMock = new Mock<Helper<Product>>(null, null, null);
+        var controller = new StorageController(mockSender.Object, helperMock.Object);
 
         // Act
         var result = await controller.GetAllProducts(1, 10);

@@ -76,5 +76,44 @@ namespace Presentation.Controllers
             // Return HTTP 200 OK with the total count
             return Ok(totalCount);
         }
+
+
+        /// <summary>
+        /// Deletes a product by its ID.
+        /// </summary>
+        /// <param name="id">ID of the product to delete.</param>
+        /// <response code="200">Product was successfully deleted.</response>
+        /// <response code="404">Product not found.</response>
+        [HttpDelete("DeleteProductById")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [SwaggerOperation(
+            Summary = "Delete product by ID",
+            Description = "Deletes an existing product by its ID. Returns 404 if product not found."
+        )]
+        public async Task<IActionResult> DeleteProductById([FromQuery] int id)
+        {
+            await _productHelper.DeleteAsync(id);
+            return Ok();
+        }
+
+        /// <summary>
+        /// Edits an existing product.
+        /// </summary>
+        /// <param name="productDto">Product DTO containing updated details. Must include the product ID.</param>
+        /// <response code="200">Product was successfully updated.</response>
+        /// <response code="404">Product not found.</response>
+        [HttpPut("EditProduct")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [SwaggerOperation(
+            Summary = "Edit existing product",
+            Description = "Updates product details. The productDto must include an existing product ID."
+        )]
+        public async Task<IActionResult> EditProduct([FromBody] ProductDto productDto)
+        {
+            await _productHelper.EditAsync(productDto);
+            return Ok();
+        }
     }
 }

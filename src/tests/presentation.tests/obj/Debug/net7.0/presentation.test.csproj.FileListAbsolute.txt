@@ -499,3 +499,4 @@
 /home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.tests/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
 /home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.tests/bin/Debug/net7.0/System.Text.Encodings.Web.dll
 /home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.tests/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/home/chavely/Documents/chavely/business/shop/backend/src/tests/presentation.tests/bin/Debug/net7.0/presentation.xml

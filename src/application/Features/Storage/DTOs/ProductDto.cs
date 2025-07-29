@@ -1,8 +1,9 @@
 using Domain.Enums;
+using Domain.Interfaces;
 
 namespace Application.Features.Storage.DTOs
 {
-    public class ProductDto
+    public class ProductDto : IHasId
     {
         public int Id { get; set; }
         public string Name { get; set; }

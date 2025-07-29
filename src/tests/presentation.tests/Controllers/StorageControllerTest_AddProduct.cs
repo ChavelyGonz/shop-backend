@@ -5,6 +5,8 @@ using Presentation.Controllers;
 using Application.Features.Storage.DTOs;
 using Application.Features.Storage.Commands;
 using Domain.Enums;
+using Application.Features.GeneralPropose.Helpers;
+using Domain.Models;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -15,7 +17,8 @@ public partial class StorageControllerTests
     {
         #region arrange
         var mockMediator = new Mock<ISender>();
-        var controller = new StorageController(mockMediator.Object);
+        var helperMock = new Mock<Helper<Product>>(null, null, null);
+        var controller = new StorageController(mockMediator.Object, helperMock.Object);
 
         var fakeProduct = new ProductDto
         {

@@ -34,5 +34,21 @@
             </returns>
             <response code="200">Returns the total number of products</response>
         </member>
+        <member name="M:Presentation.Controllers.StorageController.DeleteProductById(System.Int32)">
+            <summary>
+            Deletes a product by its ID.
+            </summary>
+            <param name="id">ID of the product to delete.</param>
+            <response code="200">Product was successfully deleted.</response>
+            <response code="404">Product not found.</response>
+        </member>
+        <member name="M:Presentation.Controllers.StorageController.EditProduct(Application.Features.Storage.DTOs.ProductDto)">
+            <summary>
+            Edits an existing product.
+            </summary>
+            <param name="productDto">Product DTO containing updated details. Must include the product ID.</param>
+            <response code="200">Product was successfully updated.</response>
+            <response code="404">Product not found.</response>
+        </member>
     </members>
 </doc>
